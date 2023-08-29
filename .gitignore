@@ -1,0 +1,4 @@
+# Ignore all bazel generated symlinks
+/bazel-*
+# Ignore VSCode launch and tasks files
+/.vscode
